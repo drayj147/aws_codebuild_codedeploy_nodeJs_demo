@@ -1,6 +1,6 @@
 #!  /bin/bash
 profile="default"
-region="us-west-2"
+region="us-east-1"
 buildTag="shellscript-demo:latest"
 
 echo "$1"
